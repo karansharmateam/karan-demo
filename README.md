@@ -1,2 +1,3 @@
 # karan-demo
-this is my first repsitary
+this is my first repositary
+writer karan sharma
